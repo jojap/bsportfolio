@@ -1,0 +1,63 @@
+nav.navbar.navbar-default.navbar-fixed-top {
+}
+
+#selfie {
+    float: left;
+    padding: 10px
+    width: 300px;
+    height: 300px;
+    margin-right: 5px;
+}
+
+.container.navbar-fixed-top {
+    position: relative;
+    border: 1px solid;
+    width: 100%;
+    height: 100%;
+    line-height: 1.5;
+    background-color: white
+
+}
+
+div.jumbotron.vertical-center{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    background-color: white;
+    width: 60%;
+    height: 65%;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.footer{
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    background-color: #666666;
+    text-align: center;
+    font-size: 7pt;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: absolute;
+
+}
+
+p.text-muted {
+    color: white;
+}
+body {
+    margin-top: 70px;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 960px;
+    background-image: url("../images/subtle_white_mini_waves.png");
+}
+
+h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 20pt;
+}
